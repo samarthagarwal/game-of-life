@@ -20,4 +20,4 @@ Each cell in the grid follows these basic rules:
 
 ### Demo:
 
-![Demo](demo.mp4)
+https://github.com/user-attachments/assets/746e9123-a0e6-4b17-9c96-53ccde27cf05
