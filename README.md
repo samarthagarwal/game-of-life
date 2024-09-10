@@ -20,4 +20,4 @@ Each cell in the grid follows these basic rules:
 
 ### Demo:
 
-![Demo](demo.webm)
+![Demo](demo.mp4)
